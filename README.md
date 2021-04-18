@@ -7,7 +7,7 @@
 3.本資料夾網址：https://github.com/stephenwen39/TaiwanRainAVG
 
 4.資料彙整如下：
-<p align="center"><img width="40%" src="RainAVG.png" /></p>
+<p align="center"><img width="40%" src="barchart.png" /></p>
 
 此為每個測站之2021年一至四月的總雨量比較圖，可以看到有四個測站的雨量總和大幅度高於其他測站
 
