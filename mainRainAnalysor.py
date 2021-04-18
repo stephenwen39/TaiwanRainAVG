@@ -26,5 +26,6 @@ for i in dict_r:
   list_sum.append(sum(dict_r[i]))
 print(list_sum)
 
-plt.plot(list_sum)
+for i, v in enumerate(list_sum):
+  plt.bar(i,v)
 plt.show()
